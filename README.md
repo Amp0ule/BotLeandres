@@ -1,6 +1,6 @@
 # BotLéandrés
 
-En attente du restock des mugs [Léandrés](https://www.leandres.paris/): 
+En attente du restock des mugs [Léandrés](https://www.leandres.paris/) : 
 
 - Scraping 1 fois par jour (+/- avec time.sleep())
 - Envoie des **MAJ** shop via [ntfy.sh](http://ntfy.sh) (POST/GET)
